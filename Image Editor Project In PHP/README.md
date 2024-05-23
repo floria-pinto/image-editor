@@ -2,7 +2,7 @@
 
 > A photo editing application based on the [Cropper.js](https://github.com/fengyuanchen/cropperjs).
 
-- [Website](https://fengyuanchen.github.io/photo-editor)
+- [Website](https://github.com/floria-pinto/image-editor/tree/08ac501f270c904d8fed54dba642bcb1b9760fdc/Image%20Editor%20Project%20In%20PHP)
 
 ## Keyboard support
 
